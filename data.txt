@@ -1,0 +1,48 @@
+name: Masato Yoshida
+tel: 00000000000
+mail: m.yoshida553@gmail.com
+area: Tokyo,Japan
+language: english
+skills: CSS, JavaScriptname: 
+tel: 
+mail: 
+area: 
+language: 
+skills: なし
+
+name: 
+tel: 
+mail: 
+area: 
+language: 
+skills: なし
+
+<br>name: s
+tel: s
+mail: sp@mail.ss
+area: s
+language: japanese
+skills: HTML
+
+name: d
+tel: d
+mail: d@mai.jp
+area: d
+language: japanese
+skills: CSS
+ーーーーー
+
+name: 
+tel: 
+mail: 
+area: 
+language: 
+skills: なし
+
+name: 
+tel: 
+mail: 
+area: 
+language: 
+skills: なし
+
